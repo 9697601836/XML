@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <information_about_me>
+	<last_name>Bykov</last_name>	
 	<first_name>Ivan</first_name>
-	<last_name>Bykov</last_name>
+	<patronymic>Valentinovich</patronymic>
+	<age>26</age>
 	<count_animals>1</count_animals>
 	<future_salary>3000</future_salary>
-	<age>26</age>
 </information_about_me>
