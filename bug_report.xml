@@ -1,1 +1,11 @@
-<>
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+<Summary>bagname</Summary>
+<Description>«»</Description>
+<Expected result>«»</Expected result>
+<Actual result>«»</Actual result>
+<Attachments>«»</Attachments>
+<Priority>P3</Priority>
+<Severity>Minor</Severity>
+<Status>Closed</Status>
+</bug_report>
