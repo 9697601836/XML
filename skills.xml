@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+<1>SOFT_SKILLS</1>
+    <1_1>Communication skills</
+    <1_2>Teamwork skills</1_1>
+    <1_3>self-organization</1_3>
+<2>HARD_SKILLS</2>
+    <2_1>Software Testing Theory</2_1>
+    <2_2>Basic concepts and features of client-server architecture</2_2>
+    <2_3>General understanding of HTTP request and response structures</2_3>
+    <2_4>General understanding of JSON, XML structures</2_4>
+    <2_5>API Testing with Postman</2_5>
+    <2_6>Working with logs</2_6>
+    <2_7>Sniffing http web traffic with Charles and Fiddler</2_7>
+    <2_8>Work with Dev Tools of web browsers (Google Chrome, FireFox)</2_8>
+    <2_9>Work with VPN</2_9>
+    <2_10>Mobile testing (work with XCode and Android Studio)</2_10>
+    <2_11>ADB (android device management)</2_11>
+    <2_12>Setting up proxy and VPN on iOS and Android</2_12>
+    <2_13>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</2_13>
+    <2_14>Command line (terminal) Linux (copy, create, view, move files on servers without a graphical interface)</2_14>
+    <2_15>Basics of bash scripting, automation of routine tasks on the server</2_15>
+    <2_16>Access to remote servers</2_16>
+    <2_17>SQL (writing simple queries)</2_17>
+    <2_18>Postgres database (installation, configuration and use)</2_18>
+    <2_19>Non-relational database Redis (installation, configuration and use)</2_19>
+    <2_20>Load Testing in Jmeter</2_20>
+    <2_21>General understanding of Scrum development methodology</2_21>
+    <2_22>Python (Learning the basics, creating a client-server application</2_22>
+</skills>
